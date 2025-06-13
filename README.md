@@ -4,8 +4,10 @@
 
 <h1 align="center">Hi, I'm <a href="https://portfolio-steel-six-81.vercel.app/">Ezz</a></h1>
 
-<h1 align="center">My Links 📎</h1>
-
+<div align="center">
+  <h1 align="center">My Links 📎</h1>
+  <p>A passionate game developer / ui designer from Egypt 🇪🇬</p>
+</div>
 <div align="center" id="badges">
   <a href="https://www.tiktok.com/@ezz_xzy?lang=en">
     <img src="https://img.shields.io/badge/Tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="LinkedIn Badge"/>
