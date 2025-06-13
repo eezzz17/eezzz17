@@ -5,7 +5,7 @@
 <div align="center">
   <h1 align="center">Hi, I'm <a href="https://portfolio-steel-six-81.vercel.app/">Ezz</a></h1>
     <p>A passionate game developer / ui designer from Egypt 🇪🇬</p>
-    <img src="https://komarev.com/ghpvc/?username=eezzz17&style=flat-square&color=black" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=eezzz17&style=flat-square&color=red" alt=""/>
 </div>
   <h1 align="center">My Links 📎</h1>
 
