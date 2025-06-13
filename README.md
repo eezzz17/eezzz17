@@ -4,7 +4,13 @@
 
 <div align="center">
   <h1 align="center">Hi, I'm <a href="https://portfolio-steel-six-81.vercel.app/">Ezz</a></h1>
-    <p>A passionate game developer / ui designer from Egypt 🇪🇬</p>
+    <h1>About Me:</h1>
+    <h1>I'm a Front End Developer from Egypt 🇪🇬</h1>
+    <ul>
+      <li>💻 Currently working on improving my UI Skills</li>
+      <li>🎮 Exploring game design</li>
+      <li>⚡ In my free time, i play games like roblox, fortnite, and valorant</li>
+    </ul>
     <img src="https://komarev.com/ghpvc/?username=eezzz17&style=flat-square&color=red" alt=""/>
 </div>
   <h1 align="center">My Links 📎</h1>
