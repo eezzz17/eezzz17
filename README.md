@@ -22,4 +22,7 @@
 
 <h1 align="center">My Skills 💻</h1>
 <img src="https://img.shields.io/badge/lua-white?style=for-the-badge&logo=lua&logoColor=blue" alt="Lua Badge"/>
-<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=black" alt="Py Badge"/>
+<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=blue" alt="Py Badge"/>
+<img src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JS Badge"/>
+<img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=blue" alt="CSS Badge"/>
+<img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html&logoColor=orange" alt="CSS Badge"/>
