@@ -5,6 +5,7 @@
 <div align="center">
   <h1 align="center">Hi, I'm <a href="https://portfolio-steel-six-81.vercel.app/">Ezz</a></h1>
     <p>A passionate game developer / ui designer from Egypt 🇪🇬</p>
+    <img src="https://komarev.com/ghpvc/?username=eezzz17&style=flat-square&color=black" alt=""/>
 </div>
   <h1 align="center">My Links 📎</h1>
 
@@ -26,5 +27,6 @@
 <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=blue" alt="Py Badge"/>
 <img src="https://img.shields.io/badge/javascript-white?style=for-the-badge&logo=javascript&logoColor=yellow" alt="JS Badge"/>
 <img src="https://img.shields.io/badge/CSS-white?style=for-the-badge&logo=css&logoColor=blue" alt="CSS Badge"/>
+<img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=orange" alt="CSS Badge"/>
 <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5&logoColor=orange" alt="CSS Badge"/>
 </div>
