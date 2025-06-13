@@ -21,5 +21,5 @@
 </div>
 
 <h1 align="center">My Skills 💻</h1>
-<img src="https://img.shields.io/badge/lua-white?style=for-the-badge&logo=lua&logoColor=white" alt="Lua Badge"/>
-<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=white" alt="Py Badge"/>
+<img src="https://img.shields.io/badge/lua-white?style=for-the-badge&logo=lua&logoColor=blue" alt="Lua Badge"/>
+<img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=black" alt="Py Badge"/>
