@@ -7,9 +7,9 @@
     <h1>About Me:</h1>
     <h1>I'm a Front End Developer from Egypt 🇪🇬</h1>
     <ul>
+      <li>⚡ Hobbyist / Freelancer</li>
       <li>💻 Currently working on improving my UI Skills</li>
       <li>🎮 Exploring game design</li>
-      <li>⚡ In my free time, i play games like roblox, fortnite, and valorant</li>
     </ul>
     <img src="https://komarev.com/ghpvc/?username=eezzz17&style=flat-square&color=red" alt=""/>
 </div>
