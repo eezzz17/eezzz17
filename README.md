@@ -5,15 +5,15 @@
 <div align="center">
   <h1 align="center">Hi, I'm <a href="https://portfolio-steel-six-81.vercel.app/">Ezz</a></h1>
     <h1>About Me:</h1>
-    <h1>I'm a Front End Developer from Egypt 🇪🇬</h1>
+    <h1>I'm a Front-end developer from Egypt 🇪🇬</h1>
     <ul>
-      <li>⚡ Hobbyist / Freelancer</li>
-      <li>💻 Currently working on improving my UI Skills</li>
-      <li>🎮 Exploring game design</li>
+      <li>hobbyist</li>
+      <li>currently working on improving my UI Skills</li>
+      <li>exploring game design</li>
     </ul>
     <img src="https://komarev.com/ghpvc/?username=eezzz17&style=flat-square&color=red" alt=""/>
 </div>
-  <h1 align="center">My Links 📎</h1>
+  <h1 align="center">my links 📎</h1>
 
 <div align="center" id="badges">
   <a href="https://www.tiktok.com/@ezz_xzy?lang=en">
@@ -27,7 +27,7 @@
   </a>
 </div>
 
-<h1 align="center">My Skills 💻</h1>
+<h1 align="center">my skills</h1>
 <div>
 <img src="https://img.shields.io/badge/lua-white?style=for-the-badge&logo=lua&logoColor=blue" alt="Lua Badge"/>
 <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=blue" alt="Py Badge"/>
